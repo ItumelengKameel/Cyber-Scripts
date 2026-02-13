@@ -1,5 +1,5 @@
 # 🛡️ Linux Security Scripts 
-This repository contains bash scripts I developed during my second month of Linux training, focusing on security log analysis and file management.
+This repository contains bash scripts I developed, focusing on security log analysis and file management.
 
 ## 🚀 Log Hunter (`Log_Hunter.sh`)
 This script automates the process of scanning system logs for security events.
